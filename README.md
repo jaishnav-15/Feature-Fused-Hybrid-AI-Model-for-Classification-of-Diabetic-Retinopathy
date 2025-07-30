@@ -1,0 +1,2 @@
+# Feature-Fused-Hybrid-AI-Model-for-Classification-of-Diabetic-Retinopathy
+Multi-Grade Diabetic Retinopathy Classification    Hybrid AI: CNNs (EfficientNet-B3, ResNet-50, DenseNet-121) + XGBoost  Preprocessing: CLAHE, Gaussian blur, grayscale  Feature fusion for comprehensive image analysis  Test-Time Augmentation (TTA) for robustness  96.49% accuracy in DR grading  Automates early detection, reduces human error
